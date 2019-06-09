@@ -4,5 +4,10 @@
 
 HTML 
 { 
-    overflow-y :hidden ; 
+    overflow: hidden ; 
+}
+
+body
+{
+    overflow: hidden;
 }
